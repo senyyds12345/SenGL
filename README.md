@@ -24,12 +24,12 @@ int main() {
     win.save("test.ppm");
     return 0;
 }
-`
+```
 # Install
 1. build
 ``` bash
 make
-`
+```
 - You can link this library when you compile c++ files
 # About
 It's not easy to make. Please give it a star!
