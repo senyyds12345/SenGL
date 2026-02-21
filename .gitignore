@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+*.so
+*.so.*
+test_sengl
+test.ppm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
